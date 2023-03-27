@@ -1,3 +1,4 @@
 # Project_Diabetes_Prediction.ipynb
-The Project_Diabetes_Prediction.ipynb created helps to tells us about the overview of the dataset i.e. diabetes.csv. Further it tells us about how to rectify the missing values, how to scale the values as well as how to train and test the data. There are also various type of plot used for visualisation that can be seen like distribution graph, boxplot, scatterplot and morever we also used the heatmap for correlation. 
-
+The Project_Diabetes_Prediction.ipynb created helps to tell us about the overview of the dataset i.e., diabetes.csv. Further, it tells us about how to rectify the missing values, how to scale the values as well as how to train and test the data. There is also various type of plot used for visualization that can be seen like distribution graph, boxplot, and scatterplot moreover we also used the heatmap for correlation. 
+As we proceed further, we can see many machine learning algorithms used such as logistic regression, confusion matrix, and random forest and used performance metrics for its accuracy and compare which of the model is more accurate and which should be used more.
+After performing all the above tasks we come to know that the random forest comes to be more accurate and performs better as compared to Logic Regression.
